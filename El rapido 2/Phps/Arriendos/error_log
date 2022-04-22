@@ -1,0 +1,6 @@
+[26-Aug-2021 14:59:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps/Arriendos/Arriendos.php on line 3
+[26-Aug-2021 15:07:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps/Arriendos/Arriendos.php on line 3
+[26-Aug-2021 15:53:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps/Arriendos/Arriendos.php on line 3
+[26-Aug-2021 15:53:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps/Arriendos/Arriendos.php on line 3
+[02-Sep-2021 23:49:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps/Arriendos/Arriendos.php on line 3
+[11-Sep-2021 20:12:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps/Arriendos/Arriendos.php on line 3

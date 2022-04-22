@@ -1,0 +1,8 @@
+[26-Aug-2021 15:34:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/agropoda/public_html/Phps/ingreso/Entradas2.php:69) in /home/agropoda/public_html/Phps/ingreso/Entradas2.php on line 70
+[26-Aug-2021 16:05:14 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/agropoda/public_html/Phps/ingreso/faster.php on line 62
+[26-Aug-2021 16:07:35 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/agropoda/public_html/Phps/ingreso/faster.php on line 62
+[26-Aug-2021 16:10:27 UTC] PHP Parse error:  syntax error, unexpected 'Entradas' (T_STRING), expecting ';' or ',' in /home/agropoda/public_html/Phps/ingreso/Entradas2.php on line 70
+[26-Aug-2021 16:12:38 UTC] PHP Parse error:  syntax error, unexpected 'Entradas' (T_STRING), expecting ';' or ',' in /home/agropoda/public_html/Phps/ingreso/Entradas2.php on line 70
+[01-Sep-2021 19:24:27 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/agropoda/public_html/Phps/ingreso/faster.php on line 62
+[02-Sep-2021 23:48:07 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/agropoda/public_html/Phps/ingreso/faster.php on line 62
+[23-Sep-2021 14:32:59 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/agropoda/public_html/Phps2/ingreso/faster.php on line 62

@@ -1,0 +1,77 @@
+[23-Sep-2021 11:17:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[23-Sep-2021 13:22:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[23-Sep-2021 13:22:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[23-Sep-2021 13:22:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[23-Sep-2021 13:41:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[23-Sep-2021 13:41:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[23-Sep-2021 13:41:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[23-Sep-2021 13:41:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[23-Sep-2021 13:50:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[23-Sep-2021 14:07:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[23-Sep-2021 15:18:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[23-Sep-2021 15:26:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[23-Sep-2021 15:28:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[23-Sep-2021 18:22:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[23-Sep-2021 18:23:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[23-Sep-2021 19:47:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[24-Sep-2021 14:33:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[25-Sep-2021 11:09:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[25-Sep-2021 11:12:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[25-Sep-2021 12:53:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[27-Sep-2021 14:04:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[27-Sep-2021 19:57:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[28-Sep-2021 11:03:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[28-Sep-2021 11:06:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[29-Sep-2021 12:55:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[29-Sep-2021 14:44:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[29-Sep-2021 14:46:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[29-Sep-2021 14:57:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[29-Sep-2021 19:05:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[29-Sep-2021 19:21:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[29-Sep-2021 19:23:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[29-Sep-2021 20:21:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[30-Sep-2021 11:01:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[30-Sep-2021 14:40:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[30-Sep-2021 16:49:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[30-Sep-2021 17:29:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[01-Oct-2021 11:03:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[02-Oct-2021 11:07:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[04-Oct-2021 11:05:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[05-Oct-2021 11:12:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[06-Oct-2021 11:14:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[06-Oct-2021 13:07:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[06-Oct-2021 20:14:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[07-Oct-2021 11:03:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[08-Oct-2021 11:24:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[08-Oct-2021 18:02:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[08-Oct-2021 18:19:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[08-Oct-2021 18:22:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[08-Oct-2021 18:23:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[08-Oct-2021 18:29:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[08-Oct-2021 18:29:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_nums_row() in /home/agropoda/public_html/Phps2/inventario/Stock.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 102
+[08-Oct-2021 18:30:23 UTC] PHP Fatal error:  Can't use function return value in write context in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 102
+[08-Oct-2021 18:30:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[08-Oct-2021 18:30:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_nums_row() in /home/agropoda/public_html/Phps2/inventario/Stock.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 102
+[08-Oct-2021 18:30:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[08-Oct-2021 18:30:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_nums_row() in /home/agropoda/public_html/Phps2/inventario/Stock.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 102
+[08-Oct-2021 18:30:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[08-Oct-2021 18:30:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_nums_row() in /home/agropoda/public_html/Phps2/inventario/Stock.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 102
+[08-Oct-2021 18:30:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[08-Oct-2021 18:30:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_nums_row() in /home/agropoda/public_html/Phps2/inventario/Stock.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 102
+[08-Oct-2021 18:31:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3
+[09-Oct-2021 11:01:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/agropoda/public_html/Phps2/inventario/Stock.php on line 3

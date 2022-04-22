@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97cd108f-64a8-4053-99bd-eb7ec450c6f7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="moni_carozos.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/4/4.1/moni_carozos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="629" column="33" lean-forward="false" selection-start-line="629" selection-start-column="33" selection-end-line="629" selection-end-column="33" />
+              <folding>
+                <marker date="1625238088835" expanded="true" signature="20771:20811" ph="SELECT `num_... monitoreo" />
+                <marker date="1625238088835" expanded="true" signature="20771:20962" ph="SELECT `num_... monitoreo" />
+                <marker date="1625238088835" expanded="true" signature="25797:25882" ph="SELECT `id_c... plantacion" />
+                <marker date="1625238088835" expanded="true" signature="26181:26236" ph="SELECT `num_... cuartel" />
+                <marker date="1625238088835" expanded="true" signature="26736:26932" ph="SELECT `id_m... monitoreo" />
+                <marker date="1625238088835" expanded="true" signature="27426:27637" ph="SELECT `id_m... moni_carozo" />
+                <marker date="1625238088835" expanded="true" signature="27972:31379" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="28059:28094" ph="..." />
+                <marker date="1625238088835" expanded="true" signature="28095:28293" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="28380:28414" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="28542:28576" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="28700:28734" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="28860:28894" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="29005:29039" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="29152:29186" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="29294:29328" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="29439:29473" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="29584:29618" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="29729:29763" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="29874:29908" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="30019:30053" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="30164:30198" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="30309:30343" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="30455:30489" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="30601:30635" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="30747:30781" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="30893:30927" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="31039:31073" ph="..." />
+                <marker date="1625238088835" expanded="false" signature="31185:31219" ph="..." />
+                <marker date="1625238088835" expanded="true" signature="31851:32129" ph="..." />
+                <marker date="1625238088835" expanded="true" signature="33959:34081" ph="SELECT `id_m... monitoreo" />
+                <marker date="1625238088835" expanded="true" signature="38049:38109" ph="SELECT `nomb... responsabilidad" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="editar_monitoreo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/4/4.1/editar_monitoreo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nuevo_monitoreo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/4/4.1/nuevo_monitoreo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+              <folding>
+                <marker date="1625157059262" expanded="true" signature="141:213" ph="SELECT `id_p... plantacion" />
+                <marker date="1625157059262" expanded="true" signature="341:380" ph="SELECT `id_m... monitoreo" />
+                <marker date="1625157059262" expanded="true" signature="341:407" ph="SELECT `id_m... monitoreo" />
+                <marker date="1625157059262" expanded="true" signature="572:756" ph="INSERT INTO `monitoreo`... " />
+                <marker date="1625157059262" expanded="true" signature="812:884" ph="SELECT `id_m... moni_carozo" />
+                <marker date="1625157059262" expanded="true" signature="1052:1157" ph="INSERT INTO `moni_carozo`... " />
+                <marker date="1625157059262" expanded="true" signature="1266:1389" ph="..." />
+                <marker date="1625157059262" expanded="true" signature="1447:1563" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Elegante docs/Backend/1/1.1/inicio.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Elegante docs/page-login.html" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/login/page-login.html" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/connect/connect.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/inicio.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/croquis.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/1/subir_croquis.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/1/save_edit_tel.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/1/croquis.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/1/bd_responsable.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/1/inicio.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/1/responsabilidades.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/1/telefonos.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/1/edit_tel.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/1/1.1/pdf1.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/login/index.html" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/login/verificar1.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/login/validar.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/login/verificar2.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/login/validar2.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/login/logueo.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/login/logueo2.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/1/1.4/save_edit_tel.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/1/1.4/edit_tel.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/1/1.2/croquis.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/1/1.3/responsabilidades.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/1/1.4/telefonos.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/2/2.2/add_plantacion.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/1/1.1/inicio.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/login/index2.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/2/2.2/obt_especie.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/2/2.2/obtespecie.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/2/2.2/especies.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/2/2.2/variedades.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/login/index.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/2/2.2/cuarteles.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/2/2.1/catastro.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/2/2.2/guardar_planta.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/3/3.1/get_carozos.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/3/3.1/editar_carozo.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/3/3.2/editar_pomaceas.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/3/3.2/get_pomaceas.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/3/3.1/feno_carozos.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/3/3.3/get_drupas.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/3/3.3/editar_drupas.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/3/3.3/feno_drupas.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/3/3.2/feno_pomaceas.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/4/4.1/feno_carozos.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/2/2.2/agregar_planta.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/4/4.1/nuevo_monitoreo.php" />
+        <option value="$PROJECT_DIR$/Elegante docs/Backend/4/4.1/moni_carozos.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP on xampp" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PHP</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Elegante" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Elegante" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Elegante docs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sistema al 12 de enero" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp2\htdocs\Elegante\Elegante docs\Backend\1\1.4" />
+      <recent name="C:\xampp2\htdocs\Elegante\Elegante docs\Backend\1\1.3" />
+      <recent name="C:\xampp2\htdocs\Elegante\Elegante docs\Backend\1\1.2" />
+      <recent name="C:\xampp2\htdocs\Elegante\Elegante docs\Backend\1\1.1" />
+      <recent name="C:\xampp2\htdocs\Elegante\Elegante docs\Backend\1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp2\htdocs\Elegante\Elegante docs\Backend\4\4.1" />
+      <recent name="C:\xampp2\htdocs\Elegante\Elegante docs\Backend\3" />
+      <recent name="C:\xampp2\htdocs\Elegante\Elegante docs\Backend\3\3.1" />
+      <recent name="C:\xampp2\htdocs\Elegante\Elegante docs\Backend\2\2.2" />
+      <recent name="C:\xampp2\htdocs\Elegante\Elegante docs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97cd108f-64a8-4053-99bd-eb7ec450c6f7" name="Default" comment="" />
+      <created>1620052808455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620052808455</updated>
+      <workItem from="1620052810134" duration="12687000" />
+      <workItem from="1620762734056" duration="4390000" />
+      <workItem from="1620851149599" duration="3012000" />
+      <workItem from="1621539945538" duration="3831000" />
+      <workItem from="1621864311082" duration="3213000" />
+      <workItem from="1621872344676" duration="41000" />
+      <workItem from="1621872454354" duration="15000000" />
+      <workItem from="1621947801656" duration="16116000" />
+      <workItem from="1622120286366" duration="22203000" />
+      <workItem from="1622206568779" duration="10659000" />
+      <workItem from="1622230504250" duration="7850000" />
+      <workItem from="1622469733522" duration="22103000" />
+      <workItem from="1622567209811" duration="6397000" />
+      <workItem from="1622641354423" duration="1900000" />
+      <workItem from="1623086433853" duration="4462000" />
+      <workItem from="1623159516082" duration="8776000" />
+      <workItem from="1623329640022" duration="13103000" />
+      <workItem from="1623768355712" duration="9062000" />
+      <workItem from="1623933603208" duration="28787000" />
+      <workItem from="1624453889834" duration="2591000" />
+      <workItem from="1624458969164" duration="4028000" />
+      <workItem from="1624543753927" duration="38630000" />
+      <workItem from="1625056083455" duration="12269000" />
+      <workItem from="1625144510193" duration="21067000" />
+      <workItem from="1625584028284" duration="819000" />
+      <workItem from="1625586772799" duration="256000" />
+      <workItem from="1639513474122" duration="627000" />
+      <workItem from="1642042255099" duration="24000" />
+      <workItem from="1642475603827" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="273937000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24130106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2533757" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/connect/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/tables-data.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core_d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="297" column="9" lean-forward="false" selection-start-line="297" selection-start-column="9" selection-end-line="297" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/1/subir_croquis.php" />
+    <entry file="file://$PROJECT_DIR$/Elegante docs/ui-modals.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/forms-advanced.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/FPDF/doc/ln.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/FPDF/Orden.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/1/1.2/Imagen1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="256" column="25" lean-forward="false" selection-start-line="256" selection-start-column="25" selection-end-line="256" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/1/1.1/pdf1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="54" column="39" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/forms-basic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/login/verificar2.php" />
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/login/validar2.php" />
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/login/logueo2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/1/1.3/bd_responsable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/1/1.2/croquis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/assets/js/jquery/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/1/1.3/responsabilidades.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/1/1.4/save_edit_tel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/1/1.4/telefonos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4564">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/1/1.4/edit_tel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/1/1.1/inicio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="353" column="63" lean-forward="true" selection-start-line="353" selection-start-column="63" selection-end-line="353" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/assets/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/combobox3/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/combobox3/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="101" column="9" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="101" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/combobox3/get_states.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/2/2.2/variedades.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" lean-forward="false" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/login/logueo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="50" column="43" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="50" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/login/index2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="45" column="22" lean-forward="false" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/login/validar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/2/2.2/guardar_planta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/2/2.2/especies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/3/3.1/editar_carozo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/3/3.2/editar_pomaceas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/3/3.1/get_carozos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/3/3.1/feno_carozos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="285" column="80" lean-forward="false" selection-start-line="285" selection-start-column="80" selection-end-line="285" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="93" column="21" lean-forward="false" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/3/3.3/editar_drupas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/3/3.3/get_drupas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="22" column="37" lean-forward="false" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/3/3.3/feno_drupas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3108">
+          <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/3/3.2/get_pomaceas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/3/3.2/feno_pomaceas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="310" column="21" lean-forward="false" selection-start-line="310" selection-start-column="21" selection-end-line="310" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/4/4.1/editar_carozo.php" />
+    <entry file="file://$PROJECT_DIR$/Elegante docs/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="366" column="15" lean-forward="true" selection-start-line="366" selection-start-column="15" selection-end-line="366" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/2/2.2/cuarteles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/2/2.2/agregar_planta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3042">
+          <caret line="496" column="15" lean-forward="true" selection-start-line="496" selection-start-column="15" selection-end-line="496" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/2/2.1/catastro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="565" column="91" lean-forward="false" selection-start-line="565" selection-start-column="91" selection-end-line="565" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/4/4.1/nuevo_monitoreo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <marker date="1625157059262" expanded="true" signature="141:213" ph="SELECT `id_p... plantacion" />
+            <marker date="1625157059262" expanded="true" signature="341:380" ph="SELECT `id_m... monitoreo" />
+            <marker date="1625157059262" expanded="true" signature="341:407" ph="SELECT `id_m... monitoreo" />
+            <marker date="1625157059262" expanded="true" signature="572:756" ph="INSERT INTO `monitoreo`... " />
+            <marker date="1625157059262" expanded="true" signature="812:884" ph="SELECT `id_m... moni_carozo" />
+            <marker date="1625157059262" expanded="true" signature="1052:1157" ph="INSERT INTO `moni_carozo`... " />
+            <marker date="1625157059262" expanded="true" signature="1266:1389" ph="..." />
+            <marker date="1625157059262" expanded="true" signature="1447:1563" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/4/4.1/editar_monitoreo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elegante docs/Backend/4/4.1/moni_carozos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="629" column="33" lean-forward="false" selection-start-line="629" selection-start-column="33" selection-end-line="629" selection-end-column="33" />
+          <folding>
+            <marker date="1625238088835" expanded="true" signature="20771:20811" ph="SELECT `num_... monitoreo" />
+            <marker date="1625238088835" expanded="true" signature="20771:20962" ph="SELECT `num_... monitoreo" />
+            <marker date="1625238088835" expanded="true" signature="25797:25882" ph="SELECT `id_c... plantacion" />
+            <marker date="1625238088835" expanded="true" signature="26181:26236" ph="SELECT `num_... cuartel" />
+            <marker date="1625238088835" expanded="true" signature="26736:26932" ph="SELECT `id_m... monitoreo" />
+            <marker date="1625238088835" expanded="true" signature="27426:27637" ph="SELECT `id_m... moni_carozo" />
+            <marker date="1625238088835" expanded="true" signature="27972:31379" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="28059:28094" ph="..." />
+            <marker date="1625238088835" expanded="true" signature="28095:28293" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="28380:28414" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="28542:28576" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="28700:28734" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="28860:28894" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="29005:29039" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="29152:29186" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="29294:29328" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="29439:29473" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="29584:29618" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="29729:29763" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="29874:29908" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="30019:30053" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="30164:30198" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="30309:30343" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="30455:30489" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="30601:30635" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="30747:30781" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="30893:30927" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="31039:31073" ph="..." />
+            <marker date="1625238088835" expanded="false" signature="31185:31219" ph="..." />
+            <marker date="1625238088835" expanded="true" signature="31851:32129" ph="..." />
+            <marker date="1625238088835" expanded="true" signature="33959:34081" ph="SELECT `id_m... monitoreo" />
+            <marker date="1625238088835" expanded="true" signature="38049:38109" ph="SELECT `nomb... responsabilidad" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
